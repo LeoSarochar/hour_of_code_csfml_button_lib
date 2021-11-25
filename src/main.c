@@ -55,7 +55,7 @@ void draw_buttons(sfRenderWindow *window, sfFont *font)
 
 void check_button_pressed(sfRenderWindow *window)
 {
-    // Loop throught the buttons array
+    // Loop through the buttons array
     // If the mouse is on the button
     // printf "button.title is clicked"
 }
